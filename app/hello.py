@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow('Hello')
+cowsay.dragon('Hello')
